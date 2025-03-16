@@ -38,7 +38,8 @@ Real-Time-Face-Recognition/
 │── README.md  
 
 
-How It Works
+How It Works :
+
 Loads images from the Images/Images folder and encodes faces.
 Opens the webcam and detects faces in real-time.
 Matches detected faces with stored encodings.
